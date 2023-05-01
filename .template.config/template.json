@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Amir.haf76",
+  "classifications": [ "Library", "Infrastructure", "Base" ],
+  "identity": "CerbiSharp.Infrastructure.Base",
+  "name": "CerbiSharp Infrastructure Item Series",
+  "shortName": "CerbiSharpBaseInfrastructure",
+  "sourceName": "CerbiSharp.Infrastructure.BaseInfrastructure",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "preferNameDirectory": true,
+}
