@@ -13,6 +13,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="7.0.2" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
     <PackageReference Include="Selenium.WebDriver" Version="4.7.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
     <PackageReference Include="WebDriverManager" Version="2.16.2" />
   </ItemGroup>
 
